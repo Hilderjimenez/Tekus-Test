@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|c:\\users\\hilder\\documents\\tekus-test\\tekusapi\\controllers\\servicesproviderstekuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|solutionrelative:controllers\\servicesproviderstekuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|c:\\users\\hilder\\documents\\tekus-test\\tekusapi\\models\\updateserviceproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|solutionrelative:models\\updateserviceproviderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|c:\\users\\hilder\\documents\\tekus-test\\tekusapi\\data\\providerstekusdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|solutionrelative:data\\providerstekusdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|c:\\users\\hilder\\documents\\tekus-test\\tekusapi\\controllers\\providerstekuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|solutionrelative:controllers\\providerstekuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|c:\\users\\hilder\\documents\\tekus-test\\tekusapi\\models\\serviceproviderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|solutionrelative:models\\serviceproviderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|c:\\users\\hilder\\documents\\tekus-test\\tekusapi\\models\\servicesprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|solutionrelative:models\\servicesprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|c:\\users\\hilder\\documents\\tekus-test\\tekusapi\\migrations\\20240902172247_updatecountrystructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|solutionrelative:migrations\\20240902172247_updatecountrystructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|c:\\users\\hilder\\documents\\tekus-test\\tekusapi\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|solutionrelative:models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|c:\\users\\hilder\\documents\\tekus-test\\tekusapi\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|solutionrelative:services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|c:\\users\\hilder\\documents\\tekus-test\\tekusapi\\controllers\\indicatorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|solutionrelative:controllers\\indicatorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|c:\\users\\hilder\\documents\\tekus-test\\tekusapi\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|solutionrelative:controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|c:\\users\\hilder\\documents\\tekus-test\\tekusapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|c:\\users\\hilder\\documents\\tekus-test\\tekusapi\\tekusapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|solutionrelative:tekusapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|c:\\users\\hilder\\documents\\tekus-test\\tekusapi\\controllers\\customfieldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD89CDD-3424-429C-9D2A-507EEA6CD0C3}|TekusAPI.csproj|solutionrelative:controllers\\customfieldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateServiceProviderDto.cs",
+              "DocumentMoniker": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Models\\UpdateServiceProviderDto.cs",
+              "RelativeDocumentMoniker": "Models\\UpdateServiceProviderDto.cs",
+              "ToolTip": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Models\\UpdateServiceProviderDto.cs",
+              "RelativeToolTip": "Models\\UpdateServiceProviderDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T22:15:05.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicesProvidersTekusController.cs",
+              "DocumentMoniker": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Controllers\\ServicesProvidersTekusController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServicesProvidersTekusController.cs",
+              "ToolTip": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Controllers\\ServicesProvidersTekusController.cs",
+              "RelativeToolTip": "Controllers\\ServicesProvidersTekusController.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAMwAABAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:57:33.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProvidersTekusDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Data\\ProvidersTekusDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ProvidersTekusDbContext.cs",
+              "ToolTip": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Data\\ProvidersTekusDbContext.cs",
+              "RelativeToolTip": "Data\\ProvidersTekusDbContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:10:10.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProvidersTekusController.cs",
+              "DocumentMoniker": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Controllers\\ProvidersTekusController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProvidersTekusController.cs",
+              "ToolTip": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Controllers\\ProvidersTekusController.cs",
+              "RelativeToolTip": "Controllers\\ProvidersTekusController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:31:16.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicesProvider.cs",
+              "DocumentMoniker": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Models\\ServicesProvider.cs",
+              "RelativeDocumentMoniker": "Models\\ServicesProvider.cs",
+              "ToolTip": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Models\\ServicesProvider.cs",
+              "RelativeToolTip": "Models\\ServicesProvider.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T02:48:53.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceProviderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Models\\ServiceProviderRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ServiceProviderRequest.cs",
+              "ToolTip": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Models\\ServiceProviderRequest.cs",
+              "RelativeToolTip": "Models\\ServiceProviderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:00:12.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Models\\Country.cs",
+              "ToolTip": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Models\\Country.cs",
+              "RelativeToolTip": "Models\\Country.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T02:52:33.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240902172247_UpdateCountryStructure.cs",
+              "DocumentMoniker": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Migrations\\20240902172247_UpdateCountryStructure.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240902172247_UpdateCountryStructure.cs",
+              "ToolTip": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Migrations\\20240902172247_UpdateCountryStructure.cs",
+              "RelativeToolTip": "Migrations\\20240902172247_UpdateCountryStructure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:22:52.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Controllers\\CountryController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:11:36.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Services\\CountryService.cs",
+              "RelativeDocumentMoniker": "Services\\CountryService.cs",
+              "ToolTip": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Services\\CountryService.cs",
+              "RelativeToolTip": "Services\\CountryService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:54:38.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IndicatorsController.cs",
+              "DocumentMoniker": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Controllers\\IndicatorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IndicatorsController.cs",
+              "ToolTip": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Controllers\\IndicatorsController.cs",
+              "RelativeToolTip": "Controllers\\IndicatorsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:06:43.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TekusAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\TekusAPI.csproj",
+              "RelativeDocumentMoniker": "TekusAPI.csproj",
+              "ToolTip": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\TekusAPI.csproj",
+              "RelativeToolTip": "TekusAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T03:25:04.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T03:04:54.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomFieldController.cs",
+              "DocumentMoniker": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Controllers\\CustomFieldController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomFieldController.cs",
+              "ToolTip": "C:\\Users\\HILDER\\Documents\\Tekus-Test\\TekusAPI\\Controllers\\CustomFieldController.cs",
+              "RelativeToolTip": "Controllers\\CustomFieldController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:12:18.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
